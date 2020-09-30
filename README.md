@@ -1,3 +1,4 @@
+Access paper as pulished in *Science* [here](https://science.sciencemag.org/content/362/6414/577.full).
 # Predicting Reservoir Hosts and Arthropod Vectors from Evolutionary Signatures in RNA Virus Genomes
 
 _Simon A. Babayan, Richard J. Orton and Daniel G. Streicker_
